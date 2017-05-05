@@ -1,1 +1,1 @@
-First docker expriment, that just prints java version. Build on AlpineLinux
+First docker, that just prints java version. Build on AlpineLinux
